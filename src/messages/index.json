@@ -1,0 +1,15 @@
+{
+  "fr": {
+    "app.title": "Scalc",
+    "menu.byNotes": "Par notes",
+    "menu.bySets": "Par type",
+    "menu.about": "A propos"
+  },
+
+  "en": {
+    "app.title": "Scalc",
+    "menu.byNotes": "By notes",
+    "menu.bySets": "By type",
+    "menu.about": "About"
+  }
+}
