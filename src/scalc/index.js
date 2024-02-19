@@ -9,7 +9,7 @@ export function label(startNote, set){
     map[`[${noteIndex}]`] = notes[noteIndex]
   }
 
-  return pattern.replace(/(\[.\])/g, function (m) {
+  return set.identifier + ' - ' + pattern.replace(/(\[.\])/g, function (m) {
       return map[m];
   });
 
