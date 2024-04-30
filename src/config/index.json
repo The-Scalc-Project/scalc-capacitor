@@ -15,6 +15,20 @@
       "category": "chord",
       "label": "[0]min",
       "halfTones": [0, 3, 7]
+    },
+
+    {
+      "identifier": "major-scale",
+      "category": "scale",
+      "label": "[0]",
+      "halfTones": [0, 2, 4, 5, 7, 9, 11]
+    },
+
+    {
+      "identifier": "minor-scale",
+      "category": "scale",
+      "label": "[0]",
+      "halfTones": [0, 2, 3, 5, 7, 8, 10]
     }
   ]
     
